@@ -1,0 +1,17 @@
+{
+    "type": "SPRITE",
+    "bounds": {
+        "left": 899,
+        "top": 461,
+        "width": 250,
+        "height": 250
+    },
+    "rect": {
+        "left": 0,
+        "top": 0,
+        "width": 250,
+        "height": 250
+    },
+    "texture": "assets/particles/smoke_particle.png",
+    "on_custom": "on_custom_particle"
+}

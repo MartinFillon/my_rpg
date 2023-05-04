@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/inventory_backplate.png",
+    "bounds": {
+        "left": 330,
+        "top": 300,
+        "width": 613,
+        "height": 613
+      },
+      "rect": {
+        "left": 0,
+        "top": 0,
+        "width": 613,
+        "height": 613
+      }
+}

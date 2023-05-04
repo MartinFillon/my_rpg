@@ -1,0 +1,16 @@
+{
+    "type": "SPRITE",
+    "texture": "assets/settings/submenu_video.png",
+    "bounds": {
+        "left": 0,
+        "top": 0,
+        "width": 1920,
+        "height": 1080
+    },
+    "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+    }
+}

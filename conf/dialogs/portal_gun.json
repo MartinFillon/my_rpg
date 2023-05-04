@@ -1,0 +1,12 @@
+{
+    "dialog": [
+        {
+            "speaker": "Announcer",
+            "text": "You can now enter the world of Rick and Morty"
+        },
+        {
+            "speaker": "",
+            "text": ""
+        }
+    ]
+}

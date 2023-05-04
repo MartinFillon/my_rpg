@@ -1,0 +1,18 @@
+{
+    "texture": "assets/hub/in_game_menu/bestiary.png",
+    "bounds": {
+        "left": 1064,
+        "top": 152,
+        "width": 217,
+        "height": 51
+      },
+      "rect": {
+        "left": 0,
+        "top": 0,
+        "width": 217,
+        "height": 51
+      },
+      "on_hover": "on_hover_in_game_btn",
+      "on_click": "on_click_in_game_btn",
+      "on_leave": "on_leave_in_game_btn"
+}

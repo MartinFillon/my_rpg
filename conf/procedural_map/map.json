@@ -1,0 +1,8 @@
+{
+  "tiles": [
+    "assets/procedural_map/tiles_1.png",
+    "assets/procedural_map/tiles_2.png",
+    "assets/procedural_map/tiles_3.png"
+  ],
+  "on_key": "on_key_escape_game"
+}

@@ -1,0 +1,16 @@
+{
+  "texture": "./assets/particles/projectile.png",
+  "bounds": {
+    "left": 0,
+    "top": 0,
+    "width": 32,
+    "height": 32
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 32,
+    "height": 32
+  },
+  "travel_distance": 1000
+}

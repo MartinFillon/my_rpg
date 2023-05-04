@@ -1,0 +1,17 @@
+{
+  "texture": "assets/hub/map.jpg",
+  "alpha": "assets/hub/alpha.jpg",
+  "bounds": {
+    "left": -950,
+    "top": -1400,
+    "width": 3880,
+    "height": 3880
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 3880,
+    "height": 3880
+  },
+  "on_key": "on_key_escape_game"
+}

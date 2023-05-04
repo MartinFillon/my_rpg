@@ -1,0 +1,12 @@
+{
+    "type": "TEXT",
+    "text": "0",
+    "font": "./assets/fonts/arial.ttf",
+    "color": 4294967295,
+    "bounds" : {
+        "left": 1193,
+        "top": 709,
+        "width": 100,
+        "height": 100
+    }
+}

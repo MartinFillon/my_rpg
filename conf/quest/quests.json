@@ -1,0 +1,38 @@
+{
+    "bubbles": [
+        "conf/quest/quests/bubble_1.json",
+        "conf/quest/quests/bubble_2.json",
+        "conf/quest/quests/bubble_3.json",
+        "conf/quest/quests/bubble_4.json",
+        "conf/quest/quests/bubble_5.json",
+        "conf/quest/quests/bubble_6.json",
+        "conf/quest/quests/bubble_7.json"
+    ],
+    "texts": [
+        "conf/quest/quests/text_1.json",
+        "conf/quest/quests/text_2.json",
+        "conf/quest/quests/text_3.json",
+        "conf/quest/quests/text_4.json",
+        "conf/quest/quests/text_5.json",
+        "conf/quest/quests/text_6.json",
+        "conf/quest/quests/text_7.json"
+    ],
+    "validate": [
+        "conf/quest/quests/validate_1.json",
+        "conf/quest/quests/validate_2.json",
+        "conf/quest/quests/validate_3.json",
+        "conf/quest/quests/validate_4.json",
+        "conf/quest/quests/validate_5.json",
+        "conf/quest/quests/validate_6.json",
+        "conf/quest/quests/validate_7.json"
+    ],
+    "dynamic_content": [
+        "null",
+        "conf/quest/quests/dynamic_content_2.json",
+        "null",
+        "null",
+        "null",
+        "null",
+        "null"
+    ]
+}

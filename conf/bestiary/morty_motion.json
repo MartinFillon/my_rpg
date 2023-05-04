@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/bestiary/mocap.png",
+    "bounds": {
+      "left": 1400,
+      "top": 750,
+      "width": 116,
+      "height": 160
+    },
+    "rect": {
+      "left": 0,
+      "top": 0,
+      "width": 116,
+      "height": 160
+    }
+}

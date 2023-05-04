@@ -1,0 +1,16 @@
+{
+  "texture": "assets/hub/portal.png",
+  "bounds": {
+    "left": 1040,
+    "top": -550,
+    "width": 352,
+    "height": 317
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 352,
+    "height": 317
+  },
+  "on_custom": "on_custom_hub_portal"
+}

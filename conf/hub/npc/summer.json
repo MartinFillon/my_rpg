@@ -1,0 +1,17 @@
+{
+  "bounds": {
+    "left": 1700,
+    "top": 0,
+    "width": 122,
+    "height": 157
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 124,
+    "height": 156
+  },
+  "interact": true,
+  "dialog": "./conf/dialogs/summer.json",
+  "texture": "assets/hub/npc/summer.png"
+}

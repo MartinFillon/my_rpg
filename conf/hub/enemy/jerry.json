@@ -1,0 +1,22 @@
+{
+  "bounds": {
+    "left": 340,
+    "top": -600,
+    "width": 122,
+    "height": 157
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 124,
+    "height": 156
+  },
+  "stats": {
+    "hp": 100,
+    "def": 10,
+    "atk": 10,
+    "atk_speed": 1
+  },
+  "interact": false,
+  "texture": "assets/hub/npc/Jerry.png"
+}

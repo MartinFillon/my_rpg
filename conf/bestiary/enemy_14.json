@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/bestiary/14.png",
+    "bounds": {
+      "left": 835,
+      "top": 650,
+      "width": 61,
+      "height": 85
+    },
+    "rect": {
+      "left": 0,
+      "top": 0,
+      "width": 61,
+      "height": 85
+    }
+}

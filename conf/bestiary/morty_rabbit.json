@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/bestiary/batbun.png",
+    "bounds": {
+      "left": 1400,
+      "top": 350,
+      "width": 105,
+      "height": 168
+    },
+    "rect": {
+      "left": 0,
+      "top": 0,
+      "width": 105,
+      "height": 168
+    }
+}

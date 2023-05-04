@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/quest/TickBtnUp_small_version.png",
+    "bounds": {
+        "left": 185,
+        "top": 784,
+        "width": 140,
+        "height": 102
+      },
+      "rect": {
+        "left": 0,
+        "top": 0,
+        "width": 140,
+        "height": 102
+      }
+}

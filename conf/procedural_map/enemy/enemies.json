@@ -1,0 +1,33 @@
+{
+  "textures": [
+    [
+      "assets/procedural_map/enemies/1.png",
+      "assets/procedural_map/enemies/2.png",
+      "assets/procedural_map/enemies/3.png",
+      "assets/procedural_map/enemies/4.png",
+      "assets/procedural_map/enemies/5.png"
+    ],
+    [
+      "assets/procedural_map/enemies/6.png",
+      "assets/procedural_map/enemies/7.png",
+      "assets/procedural_map/enemies/8.png",
+      "assets/procedural_map/enemies/9.png",
+      "assets/procedural_map/enemies/10.png"
+    ],
+    [
+      "assets/procedural_map/enemies/11.png",
+      "assets/procedural_map/enemies/12.png",
+      "assets/procedural_map/enemies/13.png",
+      "assets/procedural_map/enemies/14.png",
+      "assets/procedural_map/enemies/15.png"
+    ]
+  ],
+  "spawn_number": 10,
+  "spawn_interval": 5.0,
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 125,
+    "height": 162
+  }
+}

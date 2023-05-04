@@ -1,0 +1,33 @@
+{
+  "bounds": {
+    "left": 899,
+    "top": 461,
+    "width": 122,
+    "height": 157
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 125,
+    "height": 162
+  },
+  "stats": {
+    "hp": 100,
+    "def": 10,
+    "atk": 60,
+    "atk_speed": 10
+  },
+  "skins": [
+    "assets/skin/skin_cyclop.png",
+    "assets/skin/skin_pickle.png",
+    "assets/skin/skin_bald.png",
+    "assets/skin/skin_cap.png",
+    "assets/skin/skin_karate.png",
+    "assets/skin/skin_dude.png",
+    "assets/skin/skin_doof.png",
+    "assets/skin/skin_robot.png"
+  ],
+  "texture": "assets/skin/skin_cyclop.png",
+  "on_key": "character_interact",
+  "on_custom": "on_custom_shoot"
+}

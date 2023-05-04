@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/bar.png",
+    "bounds": {
+        "left": 1016,
+        "top": 492,
+        "width": 24,
+        "height": 30
+      },
+      "rect": {
+        "left": 0,
+        "top": 0,
+        "width": 24,
+        "height": 30
+      }
+}

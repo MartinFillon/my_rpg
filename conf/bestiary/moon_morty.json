@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/bestiary/moon.png",
+    "bounds": {
+      "left": 1200,
+      "top": 350,
+      "width": 111,
+      "height": 142
+    },
+    "rect": {
+      "left": 0,
+      "top": 0,
+      "width": 111,
+      "height": 142
+    }
+}

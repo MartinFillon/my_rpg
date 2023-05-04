@@ -1,0 +1,15 @@
+{
+  "texture": "assets/select_skin/skins.png",
+  "bounds": {
+    "left": 645,
+    "top": 15,
+    "width": 630,
+    "height": 739
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 630,
+    "height": 739
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "texture": "assets/main_menu/help.png",
+  "bounds": {
+    "left": 900,
+    "top": 508,
+    "width": 460,
+    "height": 85
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 460,
+    "height": 85
+  },
+  "on_click": "on_click_main_menu_button"
+}

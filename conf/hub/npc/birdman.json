@@ -1,0 +1,17 @@
+{
+  "bounds": {
+    "left": 1600,
+    "top": 1550,
+    "width": 122,
+    "height": 157
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 124,
+    "height": 156
+  },
+  "interact": true,
+  "dialog": "./conf/dialogs/jerry.json",
+  "texture": "assets/hub/npc/birdman.png"
+}

@@ -1,0 +1,19 @@
+{
+    "type": "NPC",
+    "texture": "assets/hub/npc/portal_gun.png",
+    "bounds": {
+        "left": 100,
+        "top": 1550,
+        "width": 85,
+        "height": 100
+    },
+    "rect": {
+        "left": 0,
+        "top": 0,
+        "width": 85,
+        "height": 100
+    },
+    "interact": true,
+    "dialog": "./conf/dialogs/portal_gun.json",
+    "on_key": "on_key_portal_gun"
+}

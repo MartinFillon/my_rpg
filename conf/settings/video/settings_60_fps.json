@@ -1,0 +1,17 @@
+{
+  "type": "SPRITE",
+  "texture": "assets/settings/checkbox.png",
+  "bounds": {
+    "left": 1100,
+    "top": 660,
+    "width": 89,
+    "height": 76
+  },
+  "rect": {
+    "x": 0,
+    "y": 0,
+    "width": 89,
+    "height": 76
+  },
+  "on_click": "on_click_settings_video_button"
+}

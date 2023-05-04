@@ -1,0 +1,18 @@
+{
+    "texture": "assets/hub/shop/2a.png",
+    "bounds": {
+      "left": 440,
+      "top": 400,
+      "width": 300,
+      "height": 364
+    },
+    "rect": {
+      "left": 0,
+      "top": 0,
+      "width": 300,
+      "height": 364
+    },
+    "on_hover": "on_hover_in_game_btn",
+    "on_leave": "on_leave_in_game_btn",
+    "on_click": "on_click_shop"
+}

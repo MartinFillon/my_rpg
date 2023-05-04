@@ -1,0 +1,15 @@
+{
+    "texture": "assets/main_menu/help_template.png",
+    "bounds": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    },
+    "rect": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  }

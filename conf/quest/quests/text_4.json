@@ -1,0 +1,12 @@
+{
+    "type": "TEXT",
+    "text": "save Summer !!!",
+    "font": "./assets/fonts/heavitas.ttf",
+    "color": 255,
+    "bounds" : {
+        "left": 425,
+        "top": 810,
+        "width": 30,
+        "height": 30
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "texture": "assets/save_menu/load.png",
+  "bounds": {
+    "left": 427,
+    "top": 150,
+    "width": 5142,
+    "height": 129
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 857,
+    "height": 129
+  }
+}

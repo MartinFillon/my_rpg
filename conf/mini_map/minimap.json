@@ -1,0 +1,9 @@
+{
+  "texture": "./assets/mini_map/minimap.png",
+  "bounds": {
+    "left": 0,
+    "top": 0,
+    "width": 392,
+    "height": 294
+  }
+}

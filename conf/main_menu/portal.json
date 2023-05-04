@@ -1,0 +1,16 @@
+{
+  "texture": "assets/main_menu/portal.png",
+  "bounds": {
+    "left": 940,
+    "top": 585,
+    "width": 612,
+    "height": 606
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 612,
+    "height": 606
+  },
+  "on_custom": "on_custom_main_menu_portal"
+}

@@ -1,0 +1,16 @@
+{
+    "texture": "assets/hub/dead_cinematique.png",
+    "bounds": {
+        "left": 0,
+        "top": 0,
+        "width": 1920,
+        "height": 1080
+    },
+    "rect": {
+        "left": 0,
+        "top": 0,
+        "width": 1920,
+        "height": 1080
+    },
+    "on_key": "on_key_death_animation"
+}

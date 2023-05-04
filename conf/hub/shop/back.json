@@ -1,0 +1,18 @@
+{
+    "texture": "assets/hub/in_game_menu/back.png",
+    "bounds": {
+        "left": 50,
+        "top": 50,
+        "width": 124,
+        "height": 123
+      },
+      "rect": {
+        "left": 0,
+        "top": 0,
+        "width": 124,
+        "height": 123
+      },
+      "on_hover": "on_hover_in_game_btn",
+      "on_leave": "on_leave_in_game_btn",
+      "on_click": "on_click_shop"
+}

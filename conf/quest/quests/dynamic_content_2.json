@@ -1,0 +1,12 @@
+{
+    "type": "TEXT",
+    "text": "0",
+    "font": "./assets/fonts/heavitas.ttf",
+    "color": 255,
+    "bounds" : {
+        "left": 578,
+        "top": 330,
+        "width": 22,
+        "height": 22
+    }
+}

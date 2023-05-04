@@ -1,0 +1,18 @@
+{
+  "texture": "assets/save_menu/slot_3.png",
+  "bounds": {
+    "left": 350,
+    "top": 716,
+    "width": 1017,
+    "height": 326
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 1017,
+    "height": 326
+  },
+  "on_hover": "on_hover_sprite_btn",
+  "on_leave": "on_leave_sprite_btn",
+  "on_click": "on_click_save_menu_btn"
+}

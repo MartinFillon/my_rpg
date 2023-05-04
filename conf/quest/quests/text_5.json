@@ -1,0 +1,12 @@
+{
+    "type": "TEXT",
+    "text": "save Birdperson !!!",
+    "font": "./assets/fonts/heavitas.ttf",
+    "color": 255,
+    "bounds" : {
+        "left": 1253,
+        "top": 331,
+        "width": 25,
+        "height": 25
+    }
+}

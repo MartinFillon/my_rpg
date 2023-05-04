@@ -1,0 +1,19 @@
+{
+    "type": "SPRITE",
+    "texture": "assets/settings/key_map_box.png",
+    "color": 4294967295,
+    "bounds": {
+        "left": 540,
+        "top": 440,
+        "width": 100,
+        "height": 100
+    },
+    "rect": {
+        "left": 100,
+        "top": 0,
+        "width": 100,
+        "height": 100
+    },
+    "on_click": "on_click_key_maps",
+    "on_key": "on_key_keymaps"
+}

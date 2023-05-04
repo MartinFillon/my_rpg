@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/stat.png",
+    "bounds": {
+        "left": 1000,
+        "top": 310,
+        "width": 573,
+        "height": 573
+      },
+      "rect": {
+        "left": 0,
+        "top": 0,
+        "width": 573,
+        "height": 573
+      } 
+}

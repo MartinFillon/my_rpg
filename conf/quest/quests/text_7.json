@@ -1,0 +1,12 @@
+{
+    "type": "TEXT",
+    "text": "kill the final morty",
+    "font": "./assets/fonts/heavitas.ttf",
+    "color": 255,
+    "bounds" : {
+        "left": 1240,
+        "top": 815,
+        "width": 25,
+        "height": 25
+    }
+}

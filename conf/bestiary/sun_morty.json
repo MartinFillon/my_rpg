@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/bestiary/sun.png",
+    "bounds": {
+      "left": 1200,
+      "top": 750,
+      "width": 121,
+      "height": 138
+    },
+    "rect": {
+      "left": 0,
+      "top": 0,
+      "width": 121,
+      "height": 138
+    }
+}

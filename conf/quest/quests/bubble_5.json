@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/quest/bubble_for_text_in_two_stats.png",
+    "bounds": {
+        "left": 1235,
+        "top": 300,
+        "width": 320,
+        "height": 92
+      },
+      "rect": {
+        "left": 320,
+        "top": 0,
+        "width": 320,
+        "height": 92
+      }
+}

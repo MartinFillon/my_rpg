@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/quest/icon_sword.png",
+    "bounds": {
+        "left": 841,
+        "top": 400,
+        "width": 1117,
+        "height": 538
+      },
+      "rect": {
+        "left": 0,
+        "top": 0,
+        "width": 276,
+        "height": 269
+      }
+}

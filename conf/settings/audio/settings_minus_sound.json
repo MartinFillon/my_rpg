@@ -1,0 +1,18 @@
+{
+    "type": "SPRITE",
+    "texture": "assets/settings/minus.png",
+    "bounds": {
+        "left": 983,
+        "top": 434,
+        "width": 100,
+        "height": 100
+    },
+    "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 100,
+        "height": 100
+    },
+    "on_click": "on_click_settings_audio_button",
+    "on_release": "on_leave_sprite_btn"
+}

@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/skins.png",
+    "bounds": {
+      "left": 1180,
+      "top": 310,
+      "width": 512,
+      "height": 567
+    },
+    "rect": {
+      "left": 0,
+      "top": 0,
+      "width": 512,
+      "height": 567
+    }
+}

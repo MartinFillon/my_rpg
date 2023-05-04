@@ -1,0 +1,12 @@
+{
+    "type": "TEXT",
+    "text": "kill 500 morty         / 500",
+    "font": "./assets/fonts/heavitas.ttf",
+    "color": 255,
+    "bounds" : {
+        "left": 382,
+        "top": 331,
+        "width": 20,
+        "height": 20
+    }
+}

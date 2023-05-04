@@ -1,0 +1,19 @@
+{
+  "texture": "assets/dialog/text_box.png",
+  "bounds": {
+    "left": 0,
+    "top": 975,
+    "width": 1920,
+    "height": 105
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 1920,
+    "height": 105
+  },
+  "font": "assets/fonts/heavitas.ttf",
+  "font_size": 20,
+  "speed": 3.5,
+  "delay": 4
+}

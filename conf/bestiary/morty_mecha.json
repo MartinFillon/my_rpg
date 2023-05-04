@@ -1,0 +1,15 @@
+{
+    "texture": "assets/hub/in_game_menu/bestiary/bob.png",
+    "bounds": {
+      "left": 1280,
+      "top": 550,
+      "width": 129,
+      "height": 150
+    },
+    "rect": {
+      "left": 0,
+      "top": 0,
+      "width": 129,
+      "height": 150
+    }
+}

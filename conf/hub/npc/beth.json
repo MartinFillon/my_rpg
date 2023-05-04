@@ -1,0 +1,17 @@
+{
+  "bounds": {
+    "left": 50,
+    "top": 825,
+    "width": 122,
+    "height": 157
+  },
+  "rect": {
+    "left": 0,
+    "top": 0,
+    "width": 124,
+    "height": 156
+  },
+  "interact": true,
+  "dialog": "./conf/dialogs/beth.json",
+  "texture": "assets/hub/npc/Beth.png"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "TEXT",
+  "text": "Interact",
+  "font": "./assets/fonts/arial.ttf",
+  "color": 4294967295,
+  "bounds": {
+    "left": 70,
+    "top": 660,
+    "width": 120,
+    "height": 40
+  }
+}

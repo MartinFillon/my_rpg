@@ -1,0 +1,17 @@
+{
+  "type": "SPRITE",
+  "texture": "assets/settings/back.png",
+  "bounds": {
+    "left": 80,
+    "top": 180,
+    "width": 116,
+    "height": 115
+  },
+  "rect": {
+    "x": 0,
+    "y": 0,
+    "width": 116,
+    "height": 115
+  },
+  "on_click": "on_click_settings_button"
+}
