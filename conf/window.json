@@ -1,0 +1,18 @@
+{
+    "settings": {
+        "interact": 0,
+        "sound_volume": 79,
+        "down": 18,
+        "left": 16,
+        "fps": 60,
+        "fullscreen": false,
+        "right": 3,
+        "music_volume": 1,
+        "up": 25
+    },
+    "width": 1920,
+    "height": 1080,
+    "title": "MyRPG",
+    "font": "assets/fonts/arial.ttf",
+    "bpp": 32
+}
